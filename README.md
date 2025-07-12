@@ -1,4 +1,5 @@
 <h1 align="center">Advanced MERN Auth </h1>
+<img width="706" height="644" alt="image" src="https://github.com/user-attachments/assets/3d3762c4-3586-41dd-a21c-4e9e4f2bd3f8" />
 
 
 ### Setup .env file
